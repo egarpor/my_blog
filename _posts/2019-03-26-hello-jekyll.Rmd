@@ -1,0 +1,9 @@
+---
+title: Hello Jekyll!
+author: Eduardo
+date: '2019-03-26'
+slug: hello-jekyll
+categories:
+  - R
+tags: []
+---

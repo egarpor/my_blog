@@ -10,3 +10,4 @@ exclude: ['*.Rmd'] # this is important to use with RMarkdown
 theme: minima
 plugins:
   - jekyll-feed # to serve posts
+  
